@@ -1,4 +1,4 @@
-
+# Download dependency
 Go to ```frontend``` and ```backend``` directory to install packages
 
 cd frontend
@@ -17,3 +17,5 @@ nodemon server
 cd frontend
 npm start
 
+# Use Docker
+In root folder run ```docker-compose up ```
